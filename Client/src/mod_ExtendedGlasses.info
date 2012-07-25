@@ -1,0 +1,23 @@
+[
+{
+  "modid" : "mod_ExtendedGlasses",
+  "name" : "ExtendedGlasses",
+  "version" : "0.1.0",
+  "mcversion": "1.2.5",
+  "url": "",
+  "credits" : "",
+  "authors": [
+    "WiseClock (LoliSama)"
+  ],
+  "description": "Can't get glass back after breaking? Wanna make more glass stuffs?  This MOD is for you!",
+  "logoFile" : "/carlkuang/icons/logo.png",
+  "updateUrl" : "",
+  "parent" : "",
+  "dependencies" : [
+    "mod_MinecraftForge"
+  ],
+  "screenshots": [
+    ""
+  ]
+}
+]
